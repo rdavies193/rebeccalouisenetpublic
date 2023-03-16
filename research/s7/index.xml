@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Rebecca Davies</title>
-    <link>http://example.org/research/s7/</link>
+    <link>https://rebeccalouise.net/research/s7/</link>
     <description>Recent content on Dr. Rebecca Davies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Rebecca Davies 2023</copyright><atom:link href="http://example.org/research/s7/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Rebecca Davies 2023</copyright><atom:link href="https://rebeccalouise.net/research/s7/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
